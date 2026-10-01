@@ -8,6 +8,7 @@ num1 = st.number_input("첫 번째 정수 입력", value=0, step=1, format="%d")
 operator = st.selectbox("연산자 선택", ["+", "-", "*", "/"])
 num2 = st.number_input("두 번째 정수 입력", value=0, step=1, format="%d")
 
+
 # 2. 계산 버튼 및 로직
 if st.button("계산하기"):
     # 정수형으로 변환하여 계산
