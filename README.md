@@ -19,4 +19,4 @@ pip install -r requirements.txt
 ```bash
 streamlit run calculator.py
 ```
-*(파일명이 `main.py`가 아니라면 해당 파이썬 파일 이름으로 변경해 주세요.)*
+
