@@ -1,5 +1,6 @@
 import streamlit as st
 
+
 # 앱 제목 설정
 st.title("간단한 정수 계산기")
 
